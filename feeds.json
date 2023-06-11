@@ -1,0 +1,41 @@
+[
+  {
+    "url": "https://odysee.com/$/rss/@Odysee:8",
+    "match": "/.*/i",
+    "datelimit": "2021-01-20",
+    "performer": "Odysee Example",
+    "desc": "<b>[title]</b>\r\n  - [longdate]\r\n\r\n <a href='#'>\uD83C\uDF7A</a>  |  <a href='[link]'>Odysee</a>  |  <a href='#'>Telegram Audio \uD83D\uDD0A</a>",
+    "icon": "icon/example.png",
+    "active": true
+  },
+  {
+    "url": "https://www.bitchute.com/feeds/rss/channel/eastcoastarcher/",
+    "match": "/.*/i",
+    "bitchute-channelid": "HyEIxBTnCeDy",
+    "datelimit": "2021-01-20",
+    "performer": "Bitchute Example",
+    "desc": "<b>[title]</b>\r\n  - [longdate]\r\n\r\n <a href='#'>\uD83C\uDF7A</a>  |  <a href='[link]'>Bitchute</a>  |  <a href='#'>Telegram Audio \uD83D\uDD0A</a>",
+    "icon": "icon/example.png",
+    "active": true
+  },
+  {
+    "url": "https://bluesmusic.podomatic.com/rss2.xml",
+    "match": "/.*/i",
+    "datelimit": "2021-01-20",
+    "performer": "Podomatic Example",
+    "type": "audio",
+    "desc": "<b>[title]</b>\r\n  - [longdate]\r\n\r\n <a href='#'>\uD83C\uDF7A</a> | <a href='[link]'>Podomatic</a> | <a href='#'>Telegram Audio \uD83D\uDD0A</a>",
+    "icon": "icon/example.png",
+    "active": true
+  },  
+  {
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_GE_SdPU-irh-2Qp9BgJ7A",
+    "match": "/.*/i",
+    "datelimit": "2021-01-20",
+    "performer": "Youtube Example",
+    "type": "youtube",
+    "desc": "<b>[title]</b>\r\n  - [longdate]\r\n\r\n <a href='#'>\uD83C\uDF7A</a> | <a href='[link]'>YouTube</a>  |  <a href='#'>Telegram Audio \uD83D\uDD0A</a>",
+    "icon": "icon/example.png",
+    "active": false
+  }
+]
